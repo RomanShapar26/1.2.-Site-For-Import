@@ -1,0 +1,6 @@
+#игнорирование каталога tmp
+tmp/
+Thumbs.db
+*.DS_Store
+*_old
+*_backup
